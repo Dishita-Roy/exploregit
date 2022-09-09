@@ -1,0 +1,60 @@
+body{
+    background: linear-gradient(100deg,#23C4ED 0%,#2827CC 100%);
+}
+
+h1{
+    text-align: center;
+    margin-top: 10%;
+    font-weight:bold;
+    font-size: 50px;
+    
+}
+
+span{
+    font-style: italic;
+    font-weight: 900;
+}
+ p{
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 30px;
+
+ }
+
+ button{
+    display: block;
+    margin: auto;
+ }
+
+ .btn{
+    border-radius: 0.8em;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 1pc;
+    font-weight: bold;
+    background-color: burlywood;
+    border: 5px solid black;
+ }
+
+ .btn:hover{
+    color: #ffff;
+    background-color: black;
+    transition: ease-in-out 100ms;
+    box-shadow: 0 0 10px inset;
+ }
+
+ .contact{
+    font-weight: bold;
+    
+ }
+
+ footer{
+    position: relative;
+    background-color: black;
+    color: azure;
+    margin-bottom: 1px;
+ }
+
+ 
+
+ 
